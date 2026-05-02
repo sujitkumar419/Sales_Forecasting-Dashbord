@@ -21,9 +21,4 @@ It analyzes Superstore sales data, provides key performance indicators (KPIs), i
 ---
 
 ## 📂 Project Structure
-Sales-Forecasting-Dashboard/
-│
-├── app.py              # Streamlit app code
-├── requirements.txt    # Python dependencies
-├── Superstore.csv      # Dataset
-└── README.md           # Project documentation
+Sales-Forecasting-Dashboard
